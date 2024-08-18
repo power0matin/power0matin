@@ -20,9 +20,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=power0matin&icon=5&color=1)](https://visitcount.itsvg.in)
-<a href="https://www.coffeebede.com/powermatin"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://coffeebede.com/powermatin) 
-  
+<a href="https://www.coffeebede.com/powermatin"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
