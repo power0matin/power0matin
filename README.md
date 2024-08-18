@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏢 I am currently working on Python<br>🌱 I’m currently learning Django<br>💬 Ask me about anything<br>⚡ Fun Facts : 🍕 🏉 🏏 🎥 🚞<br>I'm working with Chatgpt<br>
+🏢 I am currently working on Python<br>🌱 I’m currently learning Django<br>💬 Ask me about anything<br>⚡ Fun Facts : 🍕 🏉 🏏 🎥 🚞<br>🤝 I'm working with Chatgpt<br>
 
 
 ## 🌐 Socials:
