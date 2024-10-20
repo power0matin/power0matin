@@ -13,10 +13,10 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=power0matin&theme=codeSTACKr&hide_border=false" alt="Streak Stats">
   </a>
 </div>
-<div align="center">
+<!-- <div align="center">
     <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=power0matin&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false" alt="powermatin's GitHub stats">
-</div>
+</div> -->
 <br>
 <div align="center">
   <a href="#">
