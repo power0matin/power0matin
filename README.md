@@ -1,5 +1,6 @@
 <div align="center">
 # 💫 About Me:
+  <br>
 🏢 I am currently working on Python<br>🌱 I’m currently learning Django<br>🤝 I'm working with Chatgpt<br>💬 Ask me about anything<br>⚡ Fun Facts : 🍕 🏉 🏏 🎥 🚞
 
 
@@ -19,8 +20,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=power0matin&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false" alt="powermatin's GitHub stats">
 </div> -->
 <!-- <br> -->
-<!-- <div align="center">
-  <a href="#"> -->
+<!-- <div align="center">-->
+  <a href="#"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=power0matin&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="powermatin Top Langs">
   </a>
 <!-- </div> -->
