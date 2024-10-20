@@ -1,7 +1,6 @@
 <div align="center">
-##   💫 About Me:
-  <br>
-🏢 I am currently working on Python<br>🌱 I’m currently learning Django<br>🤝 I'm working with Chatgpt<br>💬 Ask me about anything<br>⚡ Fun Facts : 🍕 🏉 🏏 🎥 🚞
+# 💻 💫 About Me:
+🏢 I am currently working on Python <br> 🌱 I’m currently learning Django <br> 🤝 I'm working with Chatgpt <br>💬 Ask me about anything <br>⚡ Fun Facts : 🍕 🏉 🏏 🎥 🚞
 
 
 ## 🌐 Socials:
