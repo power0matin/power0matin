@@ -22,7 +22,7 @@
 
 
 # 📊 GitHub Stats:
-![power0matin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=power0matin&theme=gotham&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=power0matin&theme=highcontrast)](https://git.io/streak-stats)
 <div align="center">
   <a href="#">
     <img src="https://streak-stats.demolab.com/?user=power0matin&theme=codeSTACKr&hide_border=false" alt="Streak Stats">
