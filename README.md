@@ -24,7 +24,7 @@
 # 📊 GitHub Stats:
 <div align="center">
   <a href="#">
-    <img src="https://streak-stats.demolab.com/?user=power0matin&theme=codeSTACKr&hide_border=false" alt="Streak Stats">
+    <img src="https://streak-stats.demolab.com/?user=power0matin&theme=codeSTACKr&hide_border=true" alt="Streak Stats">
   </a>
 </div>
 <div align="center">
