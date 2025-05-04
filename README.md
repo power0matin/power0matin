@@ -29,7 +29,7 @@
 </div>
 <div align="center">
     <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=power0matin&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true" alt="powermatin's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=power0matin&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true" alt="powermatin's GitHub stats">
 </div>
 <br>
 <div align="center">
