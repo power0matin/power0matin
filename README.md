@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner]([https://your-image-url.com/banner.png](https://github.com/power0matin/power0matin/blob/main/github-header-image%20(2).png?raw=true))
+![Banner](https://github.com/power0matin/power0matin/blob/main/github-header-image%20(2).png?raw=true)
 
 # 👋 Hi, I'm **Matin Shahabadi**
 
