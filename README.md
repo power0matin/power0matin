@@ -24,18 +24,18 @@
 # 📊 GitHub Stats:
 <div align="center">
   <a href="#">
-    <img src="https://streak-stats.demolab.com/?user=power0matin&theme=codeSTACKr&hide_border=true" alt="Streak Stats">
+    <img src="https://streak-stats.demolab.com/?user=power0matin&theme=codeSTACKr&hide_border=false" alt="Streak Stats">
   </a>
 </div>
 <div align="center">
     <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=power0matin&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false" alt="powermatin's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=power0matin&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true" alt="powermatin's GitHub stats">
 </div>
 <br>
 <div align="center">
 <br>
   <a href="#"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=power0matin&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="powermatin Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=power0matin&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="powermatin Top Langs">
   </a>
 </div>
 
