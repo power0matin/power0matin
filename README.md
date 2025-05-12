@@ -33,7 +33,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=power0matin&theme=codeSTACKr&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=power0matin&theme=codestackr&hide_border=true)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=power0matin&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=power0matin&layout=compact&theme=codeSTACKr&hide_border=false)
 
