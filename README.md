@@ -29,6 +29,9 @@
 ![C#](https://img.shields.io/badge/CSharp-239120?style=flat&logo=csharp&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-.sh-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+
 
 
 ## 📊 GitHub Stats
