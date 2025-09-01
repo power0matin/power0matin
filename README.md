@@ -43,12 +43,19 @@
 - **[Iran Provinces Map](https://github.com/power0matin/iran-provinces)**: Interactive map of Iran's provinces.  
 <!-- پروژه‌های دیگه رو اضافه کن -->
 
-## 📊 GitHub Insights
+## 🚀 GitHub Performance & Achievements
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=power0matin&theme=codestackr&hide_border=true)](https://git.io/streak-stats)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=power0matin&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=power0matin&layout=compact&theme=codeSTACKr&hide_border=false)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=power0matin&theme=onedark) <!-- جدید اضافه شده -->
+### 🔥 Contribution Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=power0matin&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+### 📈 Activity & Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=power0matin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+### 🏆 Achievements & Recognition
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=power0matin&theme=tokyonight&margin-w=8&margin-h=8&no-frame=true)
+
+### 🧩 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=power0matin&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 📧 Contact Me
 
