@@ -46,7 +46,7 @@
 ## 🚀 GitHub Performance & Achievements
 
 ### 🔥 Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=power0matin&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?username=power0matin&theme=tokyonight&margin-w=8&margin-h=8&no-frame=true)
 
 ### 📈 Activity & Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=power0matin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
