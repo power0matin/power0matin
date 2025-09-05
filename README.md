@@ -9,8 +9,7 @@
 🤝 Open to collaborations on **innovative and impactful projects**  
 ⚡ Fun fact: I fuel my creativity with pizza 🍕, gaming 🎮, and tech discoveries 🚀  
 
----
-
+ 
 ## 🌐 Connect with Me  
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gGzEK7AHYE)
@@ -20,8 +19,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@powermatin)  
 <!-- Add LinkedIn later if available -->
 
----
-
+ 
 ## 💻 Tech Stack  
 
 ### 🔹 Languages  
@@ -37,8 +35,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
----
-
+ 
 ## 🛠️ Featured Projects  
 
 - 🚀 **[Discord Quest Auto Completer](https://github.com/power0matin/discord-quest-auto-completer)** → Automates Discord Quests with JS spoofing  
@@ -47,8 +44,7 @@
 - 🌐 **[Personal Website](https://github.com/power0matin/personal_website)** → Portfolio site built with HTML/CSS  
 - 🗺️ **[Iran Provinces Map](https://github.com/power0matin/iran-provinces)** → Interactive map of Iran’s provinces  
 
----
-
+ 
 ## 🚀 GitHub Highlights  
 
 ### 🔥 Contribution Streak  
@@ -65,15 +61,14 @@
 ### 🧑‍💻 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=power0matin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-### 🐍 Contribution Graph
-![Snake Animation](https://github.com/power0matin/power0matin/raw/output/github-contribution-grid-snake.svg)
+### 🐍 Contribution Graph  
 
-### 🐍 Contribution Graph
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/power0matin/power0matin/raw/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/power0matin/power0matin/raw/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://github.com/power0matin/power0matin/raw/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/power0matin/power0matin/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/power0matin/power0matin/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/power0matin/power0matin/output/github-contribution-grid-snake.svg" />
 </picture>
+
 
 ## 📬 Get in Touch
 
