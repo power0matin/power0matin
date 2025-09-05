@@ -1,57 +1,63 @@
 <div align="center">
 
-![Profile Banner](https://github.com/power0matin/power0matin/blob/main/github-header-image%20(2).png?raw=true)
+![Banner](https://github.com/power0matin/power0matin/blob/main/github-header-image%20(2).png?raw=true)
 
-# 👋 Hi, I'm **Matin Shahabadi** – Crafting Code with Passion!
+# 👋 Hi, I'm **Matin Shahabadi**
 
-💻 **Full-Stack Developer** | Python Enthusiast | Web Wizard  
-🌱 Diving deep into Django, backend architectures, and scalable web apps  
-🤝 Open to collaborations on open-source projects, innovative tools, or tech-for-good initiatives  
-⚡ Fun fact: I'm a pizza connoisseur 🍕, avid gamer 🎮, movie buff 🎥, and always chasing the next big tech breakthrough!  
-<!-- 📄 [View my Resume](https://your-resume-link.com) -->  <!-- Add your resume link here if available -->
+💻 Software Developer | Python, Web & Backend Engineering  
+🌱 Currently diving deeper into Django & scalable backend systems  
+🤝 Open to collaborations on **innovative and impactful projects**  
+⚡ Fun fact: I fuel my creativity with pizza 🍕, gaming 🎮, and tech discoveries 🚀  
 
-## 🌐 Let's Connect!
+---
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/gGzEK7AHYE)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/powermatin)
-[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=flat&logo=pinterest&logoColor=white)](https://pinterest.com/matinshahabadi3)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white)](https://twitch.tv/powermatin)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@powermatin)
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) -->  <!-- Uncomment and add your LinkedIn if available -->
+## 🌐 Connect with Me  
 
-## 💻 My Tech Arsenal
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gGzEK7AHYE)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/powermatin)
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/matinshahabadi3)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/powermatin)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@powermatin)  
+<!-- Add LinkedIn later if available -->
 
-### Core Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+---
 
-### Frameworks & Tools
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+## 💻 Tech Stack  
 
-## 🛠️ Spotlight Projects
+### 🔹 Languages  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-Here are some of my standout creations – check them out and star if you like!
+### 🔹 Frameworks & Tools  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-- **[Discord Quest Auto-Completer](https://github.com/power0matin/discord-quest-auto-completer)**: A clever JavaScript script that automates Discord Quest completion by simulating progress. Perfect for efficiency hackers!
-- **[Kuma Monitoring Reporter](https://github.com/power0matin/kuma-monitoring-reporter)**: A Python utility for Uptime Kuma that monitors services and sends real-time status updates via Telegram. Reliability meets automation.
-- **[Iran Firewall Manager](https://github.com/power0matin/Iran-Firewall-Manager)**: Bash script designed to fortify Iranian servers with advanced port management and connection controls. Security first!
-- **[Personal Website](https://github.com/power0matin/personal_website)**: My sleek portfolio built from scratch with HTML and CSS. Simple, elegant, and fully responsive.
-- **[Iran Provinces Map](https://github.com/power0matin/iran-provinces)**: An interactive SVG-based map of Iran's provinces – great for educational or geographic apps.
-<!-- Add more projects here as you build them! -->
+---
 
-## 🚀 GitHub Highlights & Metrics
+## 🛠️ Featured Projects  
 
-### 🔥 Current Streak
-![Contribution Streak](https://streak-stats.demolab.com/?user=power0matin&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+- 🚀 **[Discord Quest Auto Completer](https://github.com/power0matin/discord-quest-auto-completer)** → Automates Discord Quests with JS spoofing  
+- 📊 **[Kuma Monitoring Reporter](https://github.com/power0matin/kuma-monitoring-reporter)** → Python tool for Uptime Kuma + Telegram reports  
+- 🔒 **[Iran Firewall Manager](https://github.com/power0matin/Iran-Firewall-Manager)** → Bash script for server security & port control  
+- 🌐 **[Personal Website](https://github.com/power0matin/personal_website)** → Portfolio site built with HTML/CSS  
+- 🗺️ **[Iran Provinces Map](https://github.com/power0matin/iran-provinces)** → Interactive map of Iran’s provinces  
 
-### 📊 Overall Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=power0matin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+---
+
+## 🚀 GitHub Highlights  
+
+### 🔥 Contribution Streak  
+![GitHub Streak](https://streak-stats.demolab.com/?user=power0matin&theme=tokyonight&hide_border=true)
+
+### 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=power0matin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+
 
 ### 🏆 Trophies Earned
 ![Profile Trophies](https://github-profile-trophy.vercel.app/?username=power0matin&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15)
@@ -59,15 +65,21 @@ Here are some of my standout creations – check them out and star if you like!
 ### 🧑‍💻 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=power0matin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-<!-- ### 🐍 Contribution Graph
-![Snake Animation](https://github.com/power0matin/power0matin/blob/output/github-contribution-grid-snake.svg)  
- Generate this via https://github.com/Platane/snk and add to your repo -->
+### 🐍 Contribution Graph
+![Snake Animation](https://github.com/power0matin/power0matin/raw/output/github-contribution-grid-snake.svg)
+
+### 🐍 Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/power0matin/power0matin/raw/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/power0matin/power0matin/raw/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://github.com/power0matin/power0matin/raw/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ## 📬 Get in Touch
 
 Got an idea, question, or collaboration proposal? Drop me a line at [matinshahabadi3@gmail.com](mailto:matinshahabadi3@gmail.com). I'm always excited to chat tech!
 
-## ☕ Fuel My Coding Adventures
+## ☕️ Fuel My Coding Adventures
 
 If my projects have helped you or you just want to show some love, consider buying me a coffee!
 
@@ -76,6 +88,10 @@ If my projects have helped you or you just want to show some love, consider buyi
 </a>
 
 
-© 2025 Matin Shahabadi | Built with ❤️ from Iran | [Visitor Count](https://komarev.com/ghpvc/?username=power0matin&color=blueviolet) ![Visitors](https://komarev.com/ghpvc/?username=power0matin&label=Profile%20Views&color=0e75b6&style=flat)
+
+© 2025 Matin Shahabadi | Built with ❤️ from Iran
+
+![Visitors](https://komarev.com/ghpvc/?username=power0matin&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
+
