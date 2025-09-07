@@ -53,14 +53,13 @@
 ### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=power0matin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-
-
 ### 🏆 Trophies Earned
 ![Profile Trophies](https://github-profile-trophy.vercel.app/?username=power0matin&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15)
 
 ### 🧑‍💻 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=power0matin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
+<!--
 ### 🐍 Contribution Graph  
 
 <picture>
@@ -68,8 +67,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/power0matin/power0matin/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/power0matin/power0matin/output/github-contribution-grid-snake.svg" />
 </picture>
-
-
+-->
 
 ## 📬 Get in Touch
 
