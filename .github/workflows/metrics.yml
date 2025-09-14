@@ -2,7 +2,7 @@ name: Generate Metrics
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # هر 12 ساعت
+    - cron: "0 */12 * * *"   # every 12 hours
   workflow_dispatch: {}
   push:
     branches: [ main ]
@@ -14,40 +14,45 @@ jobs:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
+          # --- REQUIRED TOKENS ---
+          # Start simple: use GitHub's built-in token.
+          token: ${{ secrets.GITHUB_TOKEN }}
+          # This pushes the generated file back to your repo:
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: main
+          committer_message: "chore: update metrics.svg"
+
+          # --- BASIC CONFIG ---
           user: power0matin
           template: classic
           config_timezone: Asia/Tehran
           filename: metrics.svg
 
-          # بلوک‌های پایه
+          # --- BASE BLOCKS ---
           base: header, activity, community, repositories, metadata
           commits_authoring: power0matin
 
-          # پلاگین‌ها (ترکیب چشمگیر + کاربردی)
-          isocalendar: yes
-          isocalendar_duration: half-year
+          # --- PLUGINS (use plugin_* keys) ---
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
 
-          languages: yes
-          languages_details: percentage, bytes-size
-          languages_threshold: 2%
+          plugin_languages: yes
+          plugin_languages_details: percentage
+          plugin_languages_threshold: 2%
 
-          habits: yes
-          habits_facts: yes
-          habits_charts: yes
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
 
-          topics: yes
-          topics_mode: mastered
-          topics_limit: 12
+          plugin_topics: yes
+          plugin_topics_mode: mastered
+          plugin_topics_limit: 12
 
-          achievements: yes
-          achievements_threshold: B
-          achievements_secrets: yes
+          plugin_achievements: yes
+          plugin_achievements_threshold: B
+          plugin_achievements_secrets: yes
 
-          # می‌تونی هر وقت خواستی این‌ها رو هم اضافه کنی:
-          # stargazers: yes
-          # repositories: 100
-          # lines: yes
-          # followup: yes
-
-          # برای دسترسی‌های بیشتر (پرایوت/سازمان)، توکن شخصی بذار:
+          # Optional: if you hit API limits or want private/org data,
+          # create a Personal Access Token and use it here instead:
           # token: ${{ secrets.METRICS_TOKEN }}
+          # (keep committer_token as GITHUB_TOKEN)
