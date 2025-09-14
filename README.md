@@ -131,6 +131,9 @@
 
 ## 🚀 GitHub Highlights
 
+### 📊 Developer Metrics
+<img src="./metrics.svg" alt="GitHub Metrics" />
+
 ### 🔥 Contribution Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=power0matin&theme=tokyonight&hide_border=true)
 
