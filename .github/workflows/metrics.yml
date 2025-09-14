@@ -14,23 +14,40 @@ jobs:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
-          # اکانت گیت‌هاب
           user: power0matin
           template: classic
           config_timezone: Asia/Tehran
-
-          # خروجی
           filename: metrics.svg
 
-          # ماژول‌ها
+          # بلوک‌های پایه
           base: header, activity, community, repositories, metadata
           commits_authoring: power0matin
+
+          # پلاگین‌ها (ترکیب چشمگیر + کاربردی)
           isocalendar: yes
           isocalendar_duration: half-year
+
           languages: yes
-          languages_details: percentage
+          languages_details: percentage, bytes-size
           languages_threshold: 2%
-          achievements: yes
-          achievements_threshold: C
+
+          habits: yes
+          habits_facts: yes
+          habits_charts: yes
+
           topics: yes
-          not_found: "—"
+          topics_mode: mastered
+          topics_limit: 12
+
+          achievements: yes
+          achievements_threshold: B
+          achievements_secrets: yes
+
+          # می‌تونی هر وقت خواستی این‌ها رو هم اضافه کنی:
+          # stargazers: yes
+          # repositories: 100
+          # lines: yes
+          # followup: yes
+
+          # برای دسترسی‌های بیشتر (پرایوت/سازمان)، توکن شخصی بذار:
+          # token: ${{ secrets.METRICS_TOKEN }}
