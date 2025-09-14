@@ -4,64 +4,147 @@
 
 # 👋 Hi, I'm **Matin Shahabadi**
 
-💻 Software Developer | Python, Web & Backend Engineering  
-🌱 Currently diving deeper into Django & scalable backend systems  
-🤝 Open to collaborations on **innovative and impactful projects**  
-⚡ Fun fact: I fuel my creativity with pizza 🍕, gaming 🎮, and tech discoveries 🚀  
+💻 **Software Developer** specializing in **Python, Web & Backend Engineering**  
+🌱 Currently focusing on **Django** and **scalable backend architectures**  
+🤝 Open to collaborating on **innovative and impactful projects**  
+⚡ Fun fact: My creativity runs on pizza 🍕, gaming 🎮, and constant tech exploration 🚀  
 
- 
+
 ## 🌐 Connect with Me  
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gGzEK7AHYE)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/powermatin)
-[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/matinshahabadi3)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/powermatin)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@powermatin)  
-<!-- Add LinkedIn later if available -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://discord.gg/gGzEK7AHYE">
+        <img src="https://cdn.simpleicons.org/discord/5865F2" width="42" alt="Discord"/>
+      </a><br/>
+      <b>Discord</b>
+    </td>
+    <td align="center">
+      <a href="https://instagram.com/powermatin">
+        <img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" alt="Instagram"/>
+      </a><br/>
+      <b>Instagram</b>
+    </td>
+    <td align="center">
+      <a href="https://pinterest.com/matinshahabadi3">
+        <img src="https://cdn.simpleicons.org/pinterest/BD081C" width="42" alt="Pinterest"/>
+      </a><br/>
+      <b>Pinterest</b>
+    </td>
+    <td align="center">
+      <a href="https://twitch.tv/powermatin">
+        <img src="https://cdn.simpleicons.org/twitch/9146FF" width="42" alt="Twitch"/>
+      </a><br/>
+      <b>Twitch</b>
+    </td>
+    <td align="center">
+      <a href="https://youtube.com/@powermatin">
+        <img src="https://cdn.simpleicons.org/youtube/FF0000" width="42" alt="YouTube"/>
+      </a><br/>
+      <b>YouTube</b>
+    </td>
+  </tr>
+</table>
 
- 
-## 💻 Tech Stack  
 
-### 🔹 Languages  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
+## 💻 Tech Stack
 
-### 🔹 Frameworks & Tools  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### 🔹 Languages
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.python.org/">
+        <img src="https://skillicons.dev/icons?i=python" width="42" alt="Python"/>
+      </a><br/>
+      <b>Python</b>
+    </td>
+    <td align="center">
+      <a href="https://www.lua.org/">
+        <img src="https://skillicons.dev/icons?i=lua" width="42" alt="Lua"/>
+      </a><br/>
+      <b>Lua</b>
+    </td>
+    <td align="center">
+      <a href="https://learn.microsoft.com/dotnet/csharp/">
+        <img src="https://skillicons.dev/icons?i=cs" width="42" alt="C#"/>
+      </a><br/>
+      <b>C#</b>
+    </td>
+  </tr>
+</table>
 
- 
-## 🛠️ Featured Projects  
+### 🔹 Frameworks & Tools
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.djangoproject.com/">
+        <img src="https://skillicons.dev/icons?i=django" width="42" alt="Django"/>
+      </a><br/>
+      <b>Django</b>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/docs/Web/HTML">
+        <img src="https://skillicons.dev/icons?i=html" width="42" alt="HTML5"/>
+      </a><br/>
+      <b>HTML5</b>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/docs/Web/CSS">
+        <img src="https://skillicons.dev/icons?i=css" width="42" alt="CSS3"/>
+      </a><br/>
+      <b>CSS3</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://git-scm.com/">
+        <img src="https://skillicons.dev/icons?i=git" width="42" alt="Git"/>
+      </a><br/>
+      <b>Git</b>
+    </td>
+    <td align="center">
+      <a href="https://github.com/">
+        <img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub"/>
+      </a><br/>
+      <b>GitHub</b>
+    </td>
+    <td align="center">
+      <a href="https://www.gnu.org/software/bash/">
+        <img src="https://skillicons.dev/icons?i=bash" width="42" alt="Bash"/>
+      </a><br/>
+      <b>Bash</b>
+    </td>
+  </tr>
+</table>
 
-- 🚀 **[Discord Quest Auto Completer](https://github.com/power0matin/discord-quest-auto-completer)** → Automates Discord Quests with JS spoofing  
-- 📊 **[Kuma Monitoring Reporter](https://github.com/power0matin/kuma-monitoring-reporter)** → Python tool for Uptime Kuma + Telegram reports  
-- 🔒 **[Iran Firewall Manager](https://github.com/power0matin/Iran-Firewall-Manager)** → Bash script for server security & port control  
-- 🌐 **[Personal Website](https://github.com/power0matin/personal_website)** → Portfolio site built with HTML/CSS  
-- 🗺️ **[Iran Provinces Map](https://github.com/power0matin/iran-provinces)** → Interactive map of Iran’s provinces  
 
- 
-## 🚀 GitHub Highlights  
 
-### 🔥 Contribution Streak  
+## 🛠️ Featured Projects
+
+- 🚀 **[Discord Quest Auto Completer](https://github.com/power0matin/discord-quest-auto-completer)** → Automates Discord Quests using JS spoofing  
+- 📊 **[Kuma Monitoring Reporter](https://github.com/power0matin/kuma-monitoring-reporter)** → Python tool for Uptime Kuma + Telegram integration  
+- 🔒 **[Iran Firewall Manager](https://github.com/power0matin/Iran-Firewall-Manager)** → Bash script for enhanced server security & port management  
+- 🌐 **[Personal Website](https://github.com/power0matin/personal_website)** → Portfolio site crafted with HTML/CSS  
+- 🗺️ **[Iran Provinces Map](https://github.com/power0matin/iran-provinces)** → Interactive map showcasing Iran’s provinces  
+
+
+## 🚀 GitHub Highlights
+
+### 🔥 Contribution Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=power0matin&theme=tokyonight&hide_border=true)
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=power0matin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-### 🏆 Trophies Earned
+### 🏆 Achievements
 ![Profile Trophies](https://github-profile-trophy.vercel.app/?username=power0matin&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15)
 
 ### 🧑‍💻 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=power0matin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-<!--
-### 🐍 Contribution Graph  
-
+<!-- Optional contribution graph
+### 🐍 Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/power0matin/power0matin/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/power0matin/power0matin/output/github-contribution-grid-snake.svg" />
@@ -69,23 +152,24 @@
 </picture>
 -->
 
+
 ## 📬 Get in Touch
 
-Got an idea, question, or collaboration proposal? Drop me a line at [matinshahabadi3@gmail.com](mailto:matinshahabadi3@gmail.com). I'm always excited to chat tech!
+💡 Have an idea, question, or collaboration proposal?  
+📧 Reach me at [matinshahabadi3@gmail.com](mailto:matinshahabadi3@gmail.com)
 
-## ☕️ Fuel My Coding Adventures
 
-If my projects have helped you or you just want to show some love, consider buying me a coffee!
+## ☕ Support My Work
+
+If my projects have been useful or inspiring, consider supporting my journey:  
 
 <a href="https://www.coffeebede.com/powermatin" target="_blank" rel="noopener noreferrer">
-  <img src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" alt="Buy Me a Coffee" width="200" />
+  <img src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" alt="Buy Me a Coffee" width="360" />
 </a>
 
 
-
-© 2025 Matin Shahabadi | Built with ❤️ from Iran
+© 2025 **Matin Shahabadi** | Crafted with ❤️ from Iran
 
 ![Visitors](https://komarev.com/ghpvc/?username=power0matin&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
-
