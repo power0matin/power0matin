@@ -1,0 +1,36 @@
+name: Generate Metrics
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # هر 12 ساعت
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # اکانت گیت‌هاب
+          user: power0matin
+          template: classic
+          config_timezone: Asia/Tehran
+
+          # خروجی
+          filename: metrics.svg
+
+          # ماژول‌ها
+          base: header, activity, community, repositories, metadata
+          commits_authoring: power0matin
+          isocalendar: yes
+          isocalendar_duration: half-year
+          languages: yes
+          languages_details: percentage
+          languages_threshold: 2%
+          achievements: yes
+          achievements_threshold: C
+          topics: yes
+          not_found: "—"
