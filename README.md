@@ -15,6 +15,11 @@
 <table>
   <tr>
     <td align="center">
+        <a href="https://www.linkedin.com/in/YOUR_HANDLE" aria-label="LinkedIn">
+          <img src="./assets/li.svg" width="42" height="42" alt="LinkedIn" />
+        </a><br /><b>LinkedIn</b>
+    </td>
+    <td align="center">
       <a href="https://discord.gg/gGzEK7AHYE" aria-label="Discord">
         <img src="https://cdn.simpleicons.org/discord/5865F2" width="42" alt="Discord" />
       </a><br /><b>Discord</b>
