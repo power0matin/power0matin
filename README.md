@@ -10,6 +10,12 @@
 ⚡ Fun fact: fueled by pizza 🍕, gaming 🎮, and endless tech curiosity 🚀
 
 
+### 👤 About Me
+
+**Matin Shahabadi (متین شاه‌آبادی / متین شاه آبادی)**  
+Based in Iran, I enjoy shaping ideas into small, reliable systems that are easy to understand and maintain. I care a lot about developer experience, clear communication, and thoughtful UX details. My favorite work usually involves refining workflows, improving tooling, and collaborating closely with others to ship stable, well-documented software that people actually enjoy using.
+
+
 ## 🌐 Connect with Me
 
 <table>
@@ -138,20 +144,11 @@
 ### 🧑‍💻 Top Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=power0matin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
-<!-- Optional contribution graph
-### 🐍 Contribution Graph
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/power0matin/power0matin/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/power0matin/power0matin/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/power0matin/power0matin/output/github-contribution-grid-snake.svg" />
-</picture>
--->
-
 
 ## 📬 Get in Touch
 
 💡 Have an idea, question, or collaboration proposal?  
-📧 Reach me at **[matinshahabadi3@gmail.com](mailto:matinshahabadi3@gmail.com)**
+📧 Reach me at **[me@matinshahabadi.ir](mailto:me@matinshahabadi.ir)**
 
 
 ## ☕ Support My Work
