@@ -278,23 +278,6 @@ alt="Matin Shahabadi GitHub Trophies"
 
 </div>
 
-## How I Work
-
-```txt
-Think clearly.
-Build simply.
-Document properly.
-Improve continuously.
-Ship reliably.
-```
-
-I prefer software that is:
-
-- Clear before clever
-- Practical before over-engineered
-- Documented before forgotten
-- Stable before flashy
-- Useful before trendy
 
 ## Connect With Me
 
