@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="https://github.com/power0matin/power0matin/blob/main/github-header-image.png?raw=true"
+  src="assets/github-header-image.png"
   alt="Matin Shahabadi GitHub Banner"
   width="100%"
 />
@@ -89,8 +89,6 @@ Backend engineer focused on **Python**, **Linux**, and **DevOps**. I build autom
   alt="Top Languages"
   height="180"
 />
-
-<br />
 
 <img
   src="https://streak-stats.demolab.com?user=power0matin&theme=tokyonight&hide_border=true"

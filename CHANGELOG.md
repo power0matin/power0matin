@@ -1,6 +1,31 @@
 # Changelog
 
-All notable changes to the GitHub profile README are documented here.
+All notable changes to this repository are documented here.
+
+## [3.0.0] - 2026-07-12
+
+Production release — full repository audit, community health files, and final polish.
+
+### Added
+
+- **`.gitignore`** — covers OS artifacts, editor files, dependencies, and environment files
+- **`.editorconfig`** — enforces consistent formatting across editors (LF line endings, UTF-8, trailing whitespace rules)
+- **`.markdownlint.json`** — disables line length, inline HTML, and first-line-heading rules for profile README compatibility
+- **`.github/FUNDING.yml`** — enables GitHub sponsor button linking to CoffeeBede
+- **`.github/ISSUE_TEMPLATE/bug_report.md`** — structured template for reporting broken links or issues
+- **`.github/ISSUE_TEMPLATE/config.yml`** — disables blank issues, provides email as alternative contact
+- **`.github/PULL_REQUEST_TEMPLATE.md`** — checklist for validating link, markdown, and accessibility
+
+### Changed
+
+- **Banner image** — moved from repo root to `assets/github-header-image.png` for cleaner structure
+- **README banner path** — updated to relative path `assets/github-header-image.png`
+- **Analytics section** — removed unnecessary `<br />` between stats and streak
+- **CHANGELOG scope** — expanded from "profile README" to "this repository" to reflect broader maintenance
+
+### Removed
+
+- **`<br />` in GitHub Analytics** — unnecessary line break; centering div provides adequate spacing
 
 ## [2.1.0] - 2026-07-12
 
