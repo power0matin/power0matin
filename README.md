@@ -8,7 +8,7 @@
 
 # Hi, I'm Matin Shahabadi 👋
 
-**Web & Software Developer · Python & Django · Automation & Open Source**
+**Linux & Infrastructure Engineer · Bash · Networking · DevOps · Open Source**
 
 [![GitHub Followers](https://img.shields.io/github/followers/power0matin?label=Followers&style=flat-square&color=0ea5e9)](https://github.com/power0matin?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=power0matin&label=Views&style=flat-square&color=0ea5e9)](https://github.com/power0matin)
@@ -18,59 +18,26 @@
 
 ## About
 
-Web and software developer focused on **Python**, **Django**, and building reliable systems. I work across the stack — backend services, web applications, automation tooling, and CLI utilities — with a preference for clean architecture and practical solutions. My work centers on **Django**, **FastAPI**, **Linux**, infrastructure tooling, and production-ready deployment workflows. Contributing to open source wherever practical tooling meets real-world problems.
+Linux and infrastructure engineer building tools for servers, networks, and deployment workflows. Most of my work is in **Bash** and **Shell** — network tuning, GRE tunneling, sysctl optimization, Docker deployment, monitoring, and Telegram automation. I care about safe defaults, reversible changes, and scripts that work reliably in production.
 
 ## Currently Working On
 
-- **remnawave-panel-manager** — production panel management tool
-- **NetSpire** — networking and infrastructure project
-- **linux-network-optimizer** — Linux network tuning and automation
-- **Doprax-Telegram-Bot** — Telegram automation workflows
-
-## Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/power0matin/power-apt-boost">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=power0matin&repo=power-apt-boost&theme=tokyonight&hide_border=true" alt="power-apt-boost" />
-</a>
-<a href="https://github.com/power0matin/remnawave-panel-manager">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=power0matin&repo=remnawave-panel-manager&theme=tokyonight&hide_border=true" alt="remnawave-panel-manager" />
-</a>
-<a href="https://github.com/power0matin/NetSpire">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=power0matin&repo=NetSpire&theme=tokyonight&hide_border=true" alt="NetSpire" />
-</a>
-
-<a href="https://github.com/power0matin/linux-network-optimizer">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=power0matin&repo=linux-network-optimizer&theme=tokyonight&hide_border=true" alt="linux-network-optimizer" />
-</a>
-<a href="https://github.com/power0matin/dns-warden">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=power0matin&repo=dns-warden&theme=tokyonight&hide_border=true" alt="dns-warden" />
-</a>
-<a href="https://github.com/power0matin/Doprax-Telegram-Bot">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=power0matin&repo=Doprax-Telegram-Bot&theme=tokyonight&hide_border=true" alt="Doprax-Telegram-Bot" />
-</a>
-
-[View All Repositories →](https://github.com/power0matin?tab=repositories)
-
-</div>
+- Linux network optimization and TCP/sysctl tuning
+- GRE tunneling and infrastructure tooling
+- Docker-based deployment and lifecycle management
+- Server monitoring and uptime automation
+- Telegram bot development
 
 ## Tech Stack
 
 <div align="center">
 
-![Python](https://skillicons.dev/icons?i=python)
 ![Bash](https://skillicons.dev/icons?i=bash)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
-![Django](https://skillicons.dev/icons?i=django)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+![Python](https://skillicons.dev/icons?i=python)
+![Linux](https://skillicons.dev/icons?i=linux)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
-![Linux](https://skillicons.dev/icons?i=linux)
 
 </div>
 
@@ -99,19 +66,19 @@ Web and software developer focused on **Python**, **Django**, and building relia
 
 ## Open Source Focus
 
-- **Linux tooling** — system utilities, kernel tuning, and network optimization
-- **Backend engineering** — APIs, services, and scalable web systems
-- **DevOps automation** — deployment pipelines, monitoring, and infrastructure tooling
-- **Networking** — DNS management, proxy tooling, and network diagnostics
-- **CLI utilities** — practical command-line tools built for daily workflows
+- **Linux networking** — GRE tunnels, TCP tuning, sysctl optimization, qdisc configuration
+- **Server tooling** — deployment scripts, lifecycle managers, backup and rollback systems
+- **DevOps automation** — Docker orchestration, CI/CD, monitoring, watchdog services
+- **Telegram ecosystem** — bots, reporting tools, automation workflows
+- **Infrastructure utilities** — DNS management, APT optimization, release builders
 
 ## Development Philosophy
 
-1. **Simplicity over cleverness** — clear code beats clever code every time
-2. **Security by default** — safe assumptions, validated inputs, least privilege
-3. **Documentation matters** — if it's not documented, it doesn't exist
-4. **Performance with maintainability** — fast code you can still modify next month
-5. **Automate repetitive work** — if you do it twice, script it
+1. **Safe by default** — scripts should not break things when run on a production server
+2. **Reversible changes** — every apply has a rollback; backups before modifications
+3. **Idempotent execution** — re-running the same script should not stack duplicate configuration
+4. **Audit over automation** — show what changed, where, and why; log everything
+5. **Solve the actual problem** — understand the root cause before writing a tool
 
 ## Connect
 
@@ -152,8 +119,6 @@ Web and software developer focused on **Python**, **Django**, and building relia
 <div align="center">
 
 [![CoffeeBede](https://img.shields.io/badge/Support_on_CoffeeBede-F5C518?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.coffeebede.com/powermatin)
-
-**Building, learning, improving — one commit at a time.**
 
 © 2026 **Matin Shahabadi** · Crafted with care from Iran
 
