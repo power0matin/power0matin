@@ -8,7 +8,7 @@
 
 # Hi, I'm Matin Shahabadi 👋
 
-**Backend Engineer · Python & Django · Automation & Tooling**
+**Backend Engineer · Linux & DevOps · Automation & Open Source**
 
 [![GitHub Followers](https://img.shields.io/github/followers/power0matin?label=Followers&style=flat-square&color=0ea5e9)](https://github.com/power0matin?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=power0matin&label=Views&style=flat-square&color=0ea5e9)](https://github.com/power0matin)
@@ -18,16 +18,14 @@
 
 ## About
 
-Software developer based in Iran building reliable, maintainable backend systems. I specialize in **Python**, **Django**, and **REST APIs**, with a strong interest in automation, developer tooling, and scalable web architecture. I write clean, well-documented code and care about shipping practical solutions that hold up in production.
-
-**Currently strengthening:** Django, backend architecture, deployment workflows, and production-ready web development.
+Backend engineer focused on **Python**, **Linux**, and **DevOps**. I build automation tools, backend services, and CLI utilities with a preference for simple, reliable systems. My work centers on **Django**, **FastAPI**, infrastructure tooling, and production-ready deployment workflows. Contributing to open source wherever practical tooling meets real-world problems.
 
 ## Currently Working On
 
-- Building and maintaining **remnawave-panel-manager** — a production panel management tool
-- Developing **NetSpire** — a networking and infrastructure project
-- Improving **Doprax-Telegram-Bot** for Telegram automation workflows
-- Contributing to open-source tooling and developer experience
+- **remnawave-panel-manager** — production panel management tool
+- **NetSpire** — networking and infrastructure project
+- **linux-network-optimizer** — Linux network tuning and automation
+- **Doprax-Telegram-Bot** — Telegram automation workflows
 
 ## Featured Projects
 
@@ -43,14 +41,14 @@ Software developer based in Iran building reliable, maintainable backend systems
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=power0matin&repo=NetSpire&theme=tokyonight&hide_border=true" alt="NetSpire" />
 </a>
 
+<a href="https://github.com/power0matin/linux-network-optimizer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=power0matin&repo=linux-network-optimizer&theme=tokyonight&hide_border=true" alt="linux-network-optimizer" />
+</a>
 <a href="https://github.com/power0matin/dns-warden">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=power0matin&repo=dns-warden&theme=tokyonight&hide_border=true" alt="dns-warden" />
 </a>
 <a href="https://github.com/power0matin/Doprax-Telegram-Bot">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=power0matin&repo=Doprax-Telegram-Bot&theme=tokyonight&hide_border=true" alt="Doprax-Telegram-Bot" />
-</a>
-<a href="https://github.com/power0matin/discord-quest-auto-completer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=power0matin&repo=discord-quest-auto-completer&theme=tokyonight&hide_border=true" alt="discord-quest-auto-completer" />
 </a>
 
 [View All Repositories →](https://github.com/power0matin?tab=repositories)
@@ -61,24 +59,18 @@ Software developer based in Iran building reliable, maintainable backend systems
 
 <div align="center">
 
-**Languages**
-
 ![Python](https://skillicons.dev/icons?i=python)
-![Lua](https://skillicons.dev/icons?i=lua)
-![CSharp](https://skillicons.dev/icons?i=cs)
-
-**Backend & Web**
-
-![Django](https://skillicons.dev/icons?i=django)
+![Bash](https://skillicons.dev/icons?i=bash)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
-
-**Tools & Infra**
-
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Bash](https://skillicons.dev/icons?i=bash)
+![Django](https://skillicons.dev/icons?i=django)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
 ![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+![Linux](https://skillicons.dev/icons?i=linux)
 
 </div>
 
@@ -105,31 +97,23 @@ Software developer based in Iran building reliable, maintainable backend systems
   alt="Contribution Streak"
 />
 
-<br />
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=power0matin&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=6"
-  alt="GitHub Trophies"
-/>
-
 </div>
 
 ## Open Source Focus
 
-I believe in building tools that others can use, learn from, and improve. My open-source work focuses on:
-
-- **Developer tooling** — scripts and utilities that make daily workflows faster
-- **Server automation** — firewall management, monitoring, and deployment tooling
-- **Telegram bots** — practical automations for real-world use cases
-- **Networking tools** — DNS management and infrastructure utilities
+- **Linux tooling** — system utilities, kernel tuning, and network optimization
+- **Backend engineering** — APIs, services, and scalable web systems
+- **DevOps automation** — deployment pipelines, monitoring, and infrastructure tooling
+- **Networking** — DNS management, proxy tooling, and network diagnostics
+- **CLI utilities** — practical command-line tools built for daily workflows
 
 ## Development Philosophy
 
-1. **Simplicity first** — If it can be simple, it should be. Complexity is a cost, not a feature.
-2. **Readable code is maintainable code** — Write for the next person who reads it, including your future self.
-3. **Ship practical solutions** — Solve real problems with tools that work in production, not just in demos.
-4. **Document what matters** — Clear READMEs and inline comments save hours of confusion later.
-5. **Iterate and improve** — Start with something working, then refine based on real usage and feedback.
+1. **Simplicity over cleverness** — clear code beats clever code every time
+2. **Security by default** — safe assumptions, validated inputs, least privilege
+3. **Documentation matters** — if it's not documented, it doesn't exist
+4. **Performance with maintainability** — fast code you can still modify next month
+5. **Automate repetitive work** — if you do it twice, script it
 
 ## Connect
 
@@ -167,15 +151,9 @@ I believe in building tools that others can use, learn from, and improve. My ope
 
 ## Support
 
-If any of my projects helped you, consider supporting my work:
-
 <div align="center">
 
-[![CoffeeBede](https://img.shields.io/badge/Support_on_CoffeeBede-F5C518?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.coffeebede.com/powermatin)
-
-</div>
-
-<div align="center">
+[![CoffeeBede](https://img.shields.io/badge/Support_on_CoffeeBede-F5C518?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.coffeebede.com/powermatin)
 
 **Building, learning, improving — one commit at a time.**
 

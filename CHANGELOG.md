@@ -2,6 +2,46 @@
 
 All notable changes to the GitHub profile README are documented here.
 
+## [2.1.0] - 2026-07-12
+
+Professional refinement pass — tightened content, updated repos, removed visual noise.
+
+### Added
+
+- **linux-network-optimizer** — replaced discord-quest-auto-completer in Featured Projects
+- **FastAPI, PostgreSQL, JavaScript, GitHub Actions, Linux** — added to Tech Stack (represent current active stack)
+- **Support badge** — switched to `flat-square` for consistency with all other badges
+
+### Changed
+
+- **Header tagline** — changed from "Python & Django · Automation & Tooling" to "Linux & DevOps · Automation & Open Source" to reflect current identity
+- **About section** — rewrote to 5 focused lines covering Backend Engineering, Python, Linux, DevOps, Automation, Open Source; removed narrative tone
+- **Currently Working On** — condensed to one-line-per-project format with no descriptions
+- **Featured Projects** — replaced discord-quest-auto-completer with linux-network-optimizer; now features 6 repos representing current expertise
+- **Tech Stack** — expanded to 12 technologies from 10; added FastAPI, PostgreSQL, JavaScript, GitHub Actions, Linux; removed Lua, C#, GitHub (separate icon)
+- **Tech Stack layout** — flattened into a single centered row of icons with no sub-headings; fastest possible scan
+- **GitHub Analytics** — removed trophy section entirely; kept Stats, Top Languages, and Streak in a cleaner layout
+- **Open Source Focus** — rewrote to five focused areas: Linux tooling, Backend engineering, DevOps automation, Networking, CLI utilities
+- **Development Philosophy** — replaced verbose principles with five concise one-liners
+- **Support section** — collapsed description text into single line with footer message
+
+### Removed
+
+- **GitHub Trophies** — decorative noise, no meaningful signal
+- **Lua and C#** from Tech Stack — no longer representative of current work
+- **GitHub as separate icon** — redundant with GitHub Actions; GitHub profile link in Connect section covers it
+- **"Currently strengthening" paragraph** from About — unnecessary filler
+- **Verbose project descriptions** from Currently Working On — titles alone are sufficient
+- **"If any of my projects helped you"** intro from Support — the badge speaks for itself
+
+### Metrics
+
+- **162 lines** (down from 184 in v2.0.0, down from 382 original)
+- **Zero** horizontal rules
+- **Zero** trophy references
+- **12** tech stack icons (all actively used)
+- **6** featured project cards (all current)
+
 ## [2.0.0] - 2026-07-12
 
 Complete redesign of the GitHub profile README for a modern, premium look.
@@ -37,13 +77,3 @@ Complete redesign of the GitHub profile README for a modern, premium look.
 - **Excessive `<br />` tags** — removed 12+ explicit line breaks that were inflating vertical spacing
 - **"Revise" and "Delete" commit-style comments** — cleaned up all unnecessary HTML comments
 - **`for-the-badge` badge style** — replaced everywhere with `flat-square` or removed entirely
-
-### Design Decisions
-
-1. **No horizontal rules (`---`)** — used heading hierarchy and whitespace for section separation instead, following modern profile README conventions
-2. **Pinned repo cards over custom tables** — `github-readme-stats` pin cards are dynamic (update with stars/forks/language) and maintain consistent styling without manual upkeep
-3. **`tokyonight` theme consistency** — all GitHub stats images use the same theme for visual cohesion
-4. **Flat-square badges** — cleaner and less visually heavy than `for-the-badge` style
-5. **Inline icons over table layouts** — tech stack icons in a single row reduce vertical space from ~150px to ~60px per category
-6. **`aria-label` on all links** — ensures accessibility for screen readers
-7. **184 lines total** — well under the 350-line target; every line earns its place
