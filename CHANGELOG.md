@@ -2,6 +2,30 @@
 
 All notable changes to this repository are documented here.
 
+## [3.1.0] - 2026-07-12
+
+Migrate from deprecated github-readme-stats to actively maintained GitHub Stats Extended.
+
+### Changed
+
+- **All GitHub Stats URLs** — migrated 8 endpoints from `github-readme-stats.vercel.app` to `github-stats-extended.vercel.app`
+- **6 repository pin cards** — now served by GitHub Stats Extended
+- **GitHub Stats card** — migrated to new API
+- **Top Languages card** — migrated to new API
+
+### Compatibility
+
+- GitHub Stats Extended is fully compatible with github-readme-stats parameters
+- No parameter changes required — `theme`, `hide_border`, `show_icons`, `count_private`, `include_all_commits`, `rank_icon`, `layout`, `langs_count` all supported
+- `streak-stats.demolab.com` remains unchanged (actively maintained, v1.7.0)
+
+### Migration Notes
+
+- Old `github-readme-stats.vercel.app` public deployment is paused/deprecated
+- `github-stats-extended.vercel.app` is the actively maintained successor (303 stars, 115 forks, v2.1.3)
+- All existing themes (tokyonight) are supported
+- All existing API parameters are compatible
+
 ## [3.0.0] - 2026-07-12
 
 Production release — full repository audit, community health files, and final polish.

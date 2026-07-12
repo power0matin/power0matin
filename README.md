@@ -32,23 +32,23 @@ Web and software developer focused on **Python**, **Django**, and building relia
 <div align="center">
 
 <a href="https://github.com/power0matin/power-apt-boost">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=power0matin&repo=power-apt-boost&theme=tokyonight&hide_border=true" alt="power-apt-boost" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=power0matin&repo=power-apt-boost&theme=tokyonight&hide_border=true" alt="power-apt-boost" />
 </a>
 <a href="https://github.com/power0matin/remnawave-panel-manager">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=power0matin&repo=remnawave-panel-manager&theme=tokyonight&hide_border=true" alt="remnawave-panel-manager" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=power0matin&repo=remnawave-panel-manager&theme=tokyonight&hide_border=true" alt="remnawave-panel-manager" />
 </a>
 <a href="https://github.com/power0matin/NetSpire">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=power0matin&repo=NetSpire&theme=tokyonight&hide_border=true" alt="NetSpire" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=power0matin&repo=NetSpire&theme=tokyonight&hide_border=true" alt="NetSpire" />
 </a>
 
 <a href="https://github.com/power0matin/linux-network-optimizer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=power0matin&repo=linux-network-optimizer&theme=tokyonight&hide_border=true" alt="linux-network-optimizer" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=power0matin&repo=linux-network-optimizer&theme=tokyonight&hide_border=true" alt="linux-network-optimizer" />
 </a>
 <a href="https://github.com/power0matin/dns-warden">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=power0matin&repo=dns-warden&theme=tokyonight&hide_border=true" alt="dns-warden" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=power0matin&repo=dns-warden&theme=tokyonight&hide_border=true" alt="dns-warden" />
 </a>
 <a href="https://github.com/power0matin/Doprax-Telegram-Bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=power0matin&repo=Doprax-Telegram-Bot&theme=tokyonight&hide_border=true" alt="Doprax-Telegram-Bot" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=power0matin&repo=Doprax-Telegram-Bot&theme=tokyonight&hide_border=true" alt="Doprax-Telegram-Bot" />
 </a>
 
 [View All Repositories →](https://github.com/power0matin?tab=repositories)
@@ -79,13 +79,13 @@ Web and software developer focused on **Python**, **Django**, and building relia
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=power0matin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"
+  src="https://github-stats-extended.vercel.app/api?username=power0matin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"
   alt="GitHub Stats"
   height="180"
 />
 &nbsp;&nbsp;
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=power0matin&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=power0matin&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
   alt="Top Languages"
   height="180"
 />
