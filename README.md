@@ -8,7 +8,7 @@
 
 # Hi, I'm Matin Shahabadi 👋
 
-**Backend Engineer · Linux & DevOps · Automation & Open Source**
+**Web & Software Developer · Python & Django · Automation & Open Source**
 
 [![GitHub Followers](https://img.shields.io/github/followers/power0matin?label=Followers&style=flat-square&color=0ea5e9)](https://github.com/power0matin?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=power0matin&label=Views&style=flat-square&color=0ea5e9)](https://github.com/power0matin)
@@ -18,7 +18,7 @@
 
 ## About
 
-Backend engineer focused on **Python**, **Linux**, and **DevOps**. I build automation tools, backend services, and CLI utilities with a preference for simple, reliable systems. My work centers on **Django**, **FastAPI**, infrastructure tooling, and production-ready deployment workflows. Contributing to open source wherever practical tooling meets real-world problems.
+Web and software developer focused on **Python**, **Django**, and building reliable systems. I work across the stack — backend services, web applications, automation tooling, and CLI utilities — with a preference for clean architecture and practical solutions. My work centers on **Django**, **FastAPI**, **Linux**, infrastructure tooling, and production-ready deployment workflows. Contributing to open source wherever practical tooling meets real-world problems.
 
 ## Currently Working On
 
