@@ -8,7 +8,7 @@
 
 # Hi, I'm Matin Shahabadi 👋
 
-**Linux & Infrastructure Engineer · Bash · Networking · DevOps · Open Source**
+**Web & Software Developer · Python · Django · Linux · Automation · Open Source**
 
 [![GitHub Followers](https://img.shields.io/github/followers/power0matin?label=Followers&style=flat-square&color=0ea5e9)](https://github.com/power0matin?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=power0matin&label=Views&style=flat-square&color=0ea5e9)](https://github.com/power0matin)
@@ -18,22 +18,24 @@
 
 ## About
 
-Linux and infrastructure engineer building tools for servers, networks, and deployment workflows. Most of my work is in **Bash** and **Shell** — network tuning, GRE tunneling, sysctl optimization, Docker deployment, monitoring, and Telegram automation. I care about safe defaults, reversible changes, and scripts that work reliably in production.
+Web and software developer working with **Python**, **Django**, **JavaScript**, **Bash**, and **Linux**. I build backend systems, automation tools, bots, CLI utilities, and web applications. My work spans network optimization, Docker deployment, Telegram and Discord bots, and developer tooling. I care about clean code, practical solutions, and tools that work reliably in production.
 
 ## Currently Working On
 
-- Linux network optimization and TCP/sysctl tuning
-- GRE tunneling and infrastructure tooling
-- Docker-based deployment and lifecycle management
-- Server monitoring and uptime automation
-- Telegram bot development
+- Backend systems and web application development
+- Linux network optimization and infrastructure tooling
+- Docker-based deployment and server automation
+- Telegram and Discord bot development
+- Developer tools and CLI utilities
 
 ## Tech Stack
 
 <div align="center">
 
-![Bash](https://skillicons.dev/icons?i=bash)
 ![Python](https://skillicons.dev/icons?i=python)
+![Django](https://skillicons.dev/icons?i=django)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![Bash](https://skillicons.dev/icons?i=bash)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Git](https://skillicons.dev/icons?i=git)
@@ -66,19 +68,19 @@ Linux and infrastructure engineer building tools for servers, networks, and depl
 
 ## Open Source Focus
 
-- **Linux networking** — GRE tunnels, TCP tuning, sysctl optimization, qdisc configuration
-- **Server tooling** — deployment scripts, lifecycle managers, backup and rollback systems
-- **DevOps automation** — Docker orchestration, CI/CD, monitoring, watchdog services
-- **Telegram ecosystem** — bots, reporting tools, automation workflows
-- **Infrastructure utilities** — DNS management, APT optimization, release builders
+- **Backend engineering** — Python services, APIs, and automation systems
+- **Linux tooling** — network optimization, sysctl tuning, server utilities
+- **DevOps** — Docker deployment, CI/CD, monitoring, and lifecycle management
+- **Bots and automation** — Telegram and Discord bots, reporting tools, workflow automation
+- **Developer tools** — CLI utilities, DNS management, release builders
 
 ## Development Philosophy
 
-1. **Safe by default** — scripts should not break things when run on a production server
-2. **Reversible changes** — every apply has a rollback; backups before modifications
-3. **Idempotent execution** — re-running the same script should not stack duplicate configuration
-4. **Audit over automation** — show what changed, where, and why; log everything
-5. **Solve the actual problem** — understand the root cause before writing a tool
+1. **Write code that works in production** — reliability beats cleverness
+2. **Keep things reversible** — backup before you change, support rollback
+3. **Make it idempotent** — running the same thing twice should not break anything
+4. **Document what matters** — clear READMEs and comments save hours later
+5. **Solve the real problem** — understand the root cause before writing code
 
 ## Connect
 
