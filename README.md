@@ -8,10 +8,19 @@
 
 # Hi, I'm Matin Shahabadi 👋
 
+<!-- repo-badges:start -->
+<p align="center">
+  <a href="https://hits.sh/github.com/power0matin/power0matin/"><img src="https://hits.sh/github.com/power0matin/power0matin.svg?style=flat-square&amp;label=Views&amp;labelColor=18181B&amp;color=0EA5E9&amp;logo=github" alt="Repository Views"/></a>
+  <a href="https://github.com/power0matin/power0matin/stargazers"><img src="https://img.shields.io/github/stars/power0matin/power0matin?style=flat-square&amp;label=Stars&amp;labelColor=18181B&amp;color=F59E0B&amp;logo=github&amp;logoColor=white" alt="GitHub Stars"/></a>
+  <a href="https://github.com/power0matin/power0matin/forks"><img src="https://img.shields.io/github/forks/power0matin/power0matin?style=flat-square&amp;label=Forks&amp;labelColor=18181B&amp;color=6366F1&amp;logo=github&amp;logoColor=white" alt="GitHub Forks"/></a>
+  <a href="https://github.com/power0matin/power0matin/issues"><img src="https://img.shields.io/github/issues/power0matin/power0matin?style=flat-square&amp;label=Issues&amp;labelColor=18181B&amp;color=22C55E&amp;logo=github&amp;logoColor=white" alt="GitHub Issues"/></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/power0matin/power0matin?style=flat-square&amp;label=License&amp;labelColor=18181B&amp;color=EF4444&amp;logo=github&amp;logoColor=white" alt="GitHub License"/></a>
+</p>
+<!-- repo-badges:end -->
+
 **Web & Software Developer · Python · Django · Linux · Automation · Open Source**
 
 [![GitHub Followers](https://img.shields.io/github/followers/power0matin?label=Followers&style=flat-square&color=0ea5e9)](https://github.com/power0matin?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=power0matin&label=Views&style=flat-square&color=0ea5e9)](https://github.com/power0matin)
 [![Email](https://img.shields.io/badge/Email-0ea5e9?style=flat-square&logo=gmail&logoColor=white)](mailto:me@matinshahabadi.ir)
 
 </div>
