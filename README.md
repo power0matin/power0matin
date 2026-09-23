@@ -18,7 +18,7 @@
 </p>
 <!-- repo-badges:end -->
 
-**Web & Software Developer · Python · Django · Linux · Automation · Open Source**
+**Web & Software Developer · Python · Linux · Automation · Open Source**
 
 [![GitHub Followers](https://img.shields.io/github/followers/power0matin?label=Followers&style=flat-square&color=0ea5e9)](https://github.com/power0matin?tab=followers)
 [![Email](https://img.shields.io/badge/Email-0ea5e9?style=flat-square&logo=gmail&logoColor=white)](mailto:me@matinshahabadi.ir)
@@ -27,7 +27,7 @@
 
 ## About
 
-Web and software developer working with **Python**, **Django**, **JavaScript**, **Bash**, and **Linux**. I build backend systems, automation tools, bots, CLI utilities, and web applications. My work spans network optimization, Docker deployment, Telegram and Discord bots, and developer tooling. I care about clean code, practical solutions, and tools that work reliably in production.
+Web and software developer working with **Python**, **JavaScript**, **Bash**, and **Linux**. I build backend systems, automation tools, bots, CLI utilities, and web applications. My work spans network optimization, Docker deployment, Telegram and Discord bots, and developer tooling. I care about clean code, practical solutions, and tools that work reliably in production.
 
 ## Currently Working On
 
@@ -42,7 +42,6 @@ Web and software developer working with **Python**, **Django**, **JavaScript**, 
 <div align="center">
 
 ![Python](https://skillicons.dev/icons?i=python)
-![Django](https://skillicons.dev/icons?i=django)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![Bash](https://skillicons.dev/icons?i=bash)
 ![Linux](https://skillicons.dev/icons?i=linux)
