@@ -20,37 +20,12 @@ I build practical software at the intersection of backend development, automatio
 
 ## Selected Projects
 
-### [Backhaul Manager](https://github.com/power0matin/backhaul-manager)
-
-**Bash · Linux · systemd**
-
-An interactive installer and operations manager for Backhaul reverse tunnels. It supports both tunnel roles, named profiles, health checks, safer configuration changes, backups and rollback, upgrades, and SSH-based migration.
-
-**[Source code](https://github.com/power0matin/backhaul-manager)** · **[Project page](https://matinshahabadi.ir/projects/backhaul-manager/)**
-
-### [3xui-watchdog](https://github.com/power0matin/3xui-watchdog)
-
-**Python · 3X-UI · Xray gRPC**
-
-A watchdog that monitors client traffic quotas and expiry, then targets the affected client instead of relying on a full Xray restart as the default. It prefers Xray's gRPC API and provides panel-API fallbacks.
-
-**[Source code](https://github.com/power0matin/3xui-watchdog)**
-
-### [ServerHub](https://github.com/HyperSentry-Labs/hs-serverhub)
-
-**Lua · React · TypeScript · FiveM**
-
-A standalone in-game information and onboarding hub for FiveM servers. It brings searchable rules, commands, keybinds, getting-started steps, news, and community links into one interface, with English and Persian RTL support and optional live server status.
-
-**[Source code](https://github.com/HyperSentry-Labs/hs-serverhub)**
-
-### [NetOpt — Linux Network Optimizer](https://github.com/power0matin/linux-network-optimizer)
-
-**Bash · Linux networking · sysctl · tc**
-
-A CLI for checking and applying conservative Linux network settings. It supports queueing disciplines such as FQ-CoDel and CAKE, creates backups before changes, and provides rollback. It focuses on safer server-side configuration—not promises of higher speed when the real bottleneck is upstream.
-
-**[Source code](https://github.com/power0matin/linux-network-optimizer)**
+| Project | Technologies | What it demonstrates |
+|---|---|---|
+| [**Backhaul Manager**](https://github.com/power0matin/backhaul-manager) · [Project page](https://matinshahabadi.ir/projects/backhaul-manager/) | Bash, Linux, systemd | Operations manager for reverse tunnels, with named profiles, health checks, validated changes, backups, rollback, upgrades, and SSH migration. |
+| [**3xui-watchdog**](https://github.com/power0matin/3xui-watchdog) | Python, 3X-UI, Xray gRPC | Monitors client quotas and expiry, preferring targeted client disconnection over a full Xray restart by default. |
+| [**ServerHub**](https://github.com/HyperSentry-Labs/hs-serverhub) | Lua, React, TypeScript, FiveM | Standalone in-game information and onboarding UI with search, live status options, and English/Persian RTL support. |
+| [**NetOpt — Linux Network Optimizer**](https://github.com/power0matin/linux-network-optimizer) | Bash, Linux networking, sysctl, tc | Audits and applies conservative network settings with backups and rollback; does not promise to fix upstream bottlenecks. |
 
 ## Technologies
 
