@@ -2,135 +2,78 @@
 
 <img
   src="assets/github-header-image.png"
-  alt="Matin Shahabadi GitHub Banner"
+  alt="Matin Shahabadi — Web and Software Developer"
   width="100%"
 />
 
-<h1 align="center">Hi, I'm Matin Shahabadi 👋</h1>
+<h1 align="center">Hi, I'm Matin Shahabadi</h1>
 
-<!-- repo-badges:start -->
-<p align="center">
-  <a href="https://hits.sh/github.com/power0matin/power0matin/"><img src="https://hits.sh/github.com/power0matin/power0matin.svg?style=flat-square&amp;label=Views&amp;labelColor=18181B&amp;color=0EA5E9&amp;logo=github" alt="Repository Views"/></a>
-  <a href="https://github.com/power0matin/power0matin/stargazers"><img src="https://img.shields.io/github/stars/power0matin/power0matin?style=flat-square&amp;label=Stars&amp;labelColor=18181B&amp;color=F59E0B&amp;logo=github&amp;logoColor=white" alt="GitHub Stars"/></a>
-  <a href="https://github.com/power0matin/power0matin/forks"><img src="https://img.shields.io/github/forks/power0matin/power0matin?style=flat-square&amp;label=Forks&amp;labelColor=18181B&amp;color=6366F1&amp;logo=github&amp;logoColor=white" alt="GitHub Forks"/></a>
-  <a href="https://github.com/power0matin/power0matin/issues"><img src="https://img.shields.io/github/issues/power0matin/power0matin?style=flat-square&amp;label=Issues&amp;labelColor=18181B&amp;color=22C55E&amp;logo=github&amp;logoColor=white" alt="GitHub Issues"/></a>
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/power0matin/power0matin?style=flat-square&amp;label=License&amp;labelColor=18181B&amp;color=EF4444&amp;logo=github&amp;logoColor=white" alt="GitHub License"/></a>
-</p>
-<!-- repo-badges:end -->
+<p><strong>Web &amp; Software Developer</strong> · Python · JavaScript / TypeScript · Lua · Linux</p>
 
-**Web & Software Developer · Python · Linux · Automation · Open Source**
-
-[![GitHub Followers](https://img.shields.io/github/followers/power0matin?label=Followers&style=flat-square&color=0ea5e9)](https://github.com/power0matin?tab=followers)
-[![Email](https://img.shields.io/badge/Email-0ea5e9?style=flat-square&logo=gmail&logoColor=white)](mailto:me@matinshahabadi.ir)
+<p>Backend development · Automation · Linux tooling · Practical web software</p>
 
 </div>
 
 ## About
 
-Web and software developer working with **Python**, **JavaScript**, **Bash**, and **Linux**. I build backend systems, automation tools, bots, CLI utilities, and web applications. My work spans network optimization, Docker deployment, Telegram and Discord bots, and developer tooling. I care about clean code, practical solutions, and tools that work reliably in production.
+I build practical software at the intersection of backend development, automation, and Linux tooling. My work includes infrastructure utilities, monitoring tools, bots, and web interfaces. I value maintainable code, safe operational changes, clear documentation, and solutions that can be tested and rolled back.
 
-## Currently Working On
+## Selected Projects
 
-- Backend systems and web application development
-- Linux network optimization and infrastructure tooling
-- Docker-based deployment and server automation
-- Telegram and Discord bot development
-- Developer tools and CLI utilities
+### [Backhaul Manager](https://github.com/power0matin/backhaul-manager)
 
-## Tech Stack
+**Bash · Linux · systemd**
 
-<div align="center">
+An interactive installer and operations manager for Backhaul reverse tunnels. It supports both tunnel roles, named profiles, health checks, safer configuration changes, backups and rollback, upgrades, and SSH-based migration.
 
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![Bash](https://skillicons.dev/icons?i=bash)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+**[Source code](https://github.com/power0matin/backhaul-manager)** · **[Project page](https://matinshahabadi.ir/projects/backhaul-manager/)**
 
-</div>
+### [3xui-watchdog](https://github.com/power0matin/3xui-watchdog)
 
-## GitHub Analytics
+**Python · 3X-UI · Xray gRPC**
 
-<div align="center">
+A watchdog that monitors client traffic quotas and expiry, then targets the affected client instead of relying on a full Xray restart as the default. It prefers Xray's gRPC API and provides panel-API fallbacks.
 
-<img
-  src="https://github-stats-extended.vercel.app/api?username=power0matin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"
-  alt="GitHub Stats"
-  height="180"
-/>
-&nbsp;&nbsp;
-<img
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=power0matin&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
-  alt="Top Languages"
-  height="180"
-/>
+**[Source code](https://github.com/power0matin/3xui-watchdog)**
 
-<img
-  src="https://streak-stats.demolab.com?user=power0matin&theme=tokyonight&hide_border=true"
-  alt="Contribution Streak"
-/>
+### [ServerHub](https://github.com/HyperSentry-Labs/hs-serverhub)
 
-</div>
+**Lua · React · TypeScript · FiveM**
 
-## Open Source Focus
+A standalone in-game information and onboarding hub for FiveM servers. It brings searchable rules, commands, keybinds, getting-started steps, news, and community links into one interface, with English and Persian RTL support and optional live server status.
 
-- **Backend engineering** — Python services, APIs, and automation systems
-- **Linux tooling** — network optimization, sysctl tuning, server utilities
-- **DevOps** — Docker deployment, CI/CD, monitoring, and lifecycle management
-- **Bots and automation** — Telegram and Discord bots, reporting tools, workflow automation
-- **Developer tools** — CLI utilities, DNS management, release builders
+**[Source code](https://github.com/HyperSentry-Labs/hs-serverhub)**
 
-## Development Philosophy
+### [NetOpt — Linux Network Optimizer](https://github.com/power0matin/linux-network-optimizer)
 
-1. **Write code that works in production** — reliability beats cleverness
-2. **Keep things reversible** — backup before you change, support rollback
-3. **Make it idempotent** — running the same thing twice should not break anything
-4. **Document what matters** — clear READMEs and comments save hours later
-5. **Solve the real problem** — understand the root cause before writing code
+**Bash · Linux networking · sysctl · tc**
 
-## Connect
+A CLI for checking and applying conservative Linux network settings. It supports queueing disciplines such as FQ-CoDel and CAKE, creates backups before changes, and provides rollback. It focuses on safer server-side configuration—not promises of higher speed when the real bottleneck is upstream.
 
-<div align="center">
+**[Source code](https://github.com/power0matin/linux-network-optimizer)**
 
-<a href="https://www.linkedin.com/in/matin-shahabadi" aria-label="LinkedIn">
-  <img src="./assets/li.svg" width="40" height="40" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="https://discord.gg/gGzEK7AHYE" aria-label="Discord">
-  <img src="https://cdn.simpleicons.org/discord/5865F2" width="40" alt="Discord" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/power0matin" aria-label="GitHub">
-  <img src="https://cdn.simpleicons.org/github/ffffff" width="40" alt="GitHub" />
-</a>
-&nbsp;&nbsp;
-<a href="https://instagram.com/powermatin" aria-label="Instagram">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" alt="Instagram" />
-</a>
-&nbsp;&nbsp;
-<a href="https://twitch.tv/powermatin" aria-label="Twitch">
-  <img src="https://cdn.simpleicons.org/twitch/9146FF" width="40" alt="Twitch" />
-</a>
-&nbsp;&nbsp;
-<a href="https://youtube.com/@powermatin" aria-label="YouTube">
-  <img src="https://cdn.simpleicons.org/youtube/FF0000" width="40" alt="YouTube" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:me@matinshahabadi.ir" aria-label="Email">
-  <img src="https://cdn.simpleicons.org/gmail/0ea5e9" width="40" alt="Email" />
-</a>
+## Technologies
 
-</div>
+- **Languages and scripting:** Python, JavaScript / TypeScript, Lua, Bash
+- **Web and application development:** React, API and bot integrations
+- **Platforms and operations:** Linux, Docker, systemd
+- **Engineering tools:** Git, GitHub Actions
 
-## Support
+This list reflects technologies used across my projects; it is not intended to imply equal depth in every tool.
 
-<div align="center">
+## Engineering Approach
 
-[![CoffeeBede](https://img.shields.io/badge/Support_on_CoffeeBede-F5C518?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.coffeebede.com/powermatin)
+- Prefer safe defaults, validate inputs, and make operational changes reversible.
+- Build repeatable tools with explicit failure handling, backups, and rollback paths.
+- Document setup, limitations, and testing so others can review and operate the software.
 
-© 2026 **Matin Shahabadi** · Crafted with care from Iran
+## Opportunities
 
-</div>
+I’m interested in **junior and internship opportunities** in web/software development, backend Python, Linux tooling, and automation. I’m based in Iran and open to remote roles and collaboration.
 
+## Contact
+
+- **Website:** [matinshahabadi.ir](https://matinshahabadi.ir/)
+- **Email:** [me@matinshahabadi.ir](mailto:me@matinshahabadi.ir)
+- **GitHub:** [power0matin](https://github.com/power0matin)
+- **LinkedIn:** [matin-shahabadi](https://www.linkedin.com/in/matin-shahabadi)
