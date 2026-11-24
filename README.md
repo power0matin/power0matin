@@ -10,19 +10,19 @@
 
 <p><strong>Web &amp; Software Developer</strong> · Python · JavaScript / TypeScript · Lua · Bash</p>
 
-<p>Backend systems · Linux tooling · Automation · Web applications</p>
+<p>Backend systems · Web applications · Automation</p>
 
 </div>
 
 ## About
 
-I build backend software, Linux automation tools, bots, and web interfaces. I focus on practical features, clear failure handling, and software that is maintainable and testable.
+I build backend software, web applications, Telegram bots, and automation tools. I focus on practical features, clear failure handling, and software that is maintainable and testable.
 
 ## Selected Projects
 
 | Project | Technologies | What it demonstrates |
 |---|---|---|
-| [**Backhaul Manager**](https://github.com/power0matin/backhaul-manager) · [Project page](https://matinshahabadi.ir/projects/backhaul-manager/) | Bash, Linux, systemd | Reverse-tunnel lifecycle management with profiles, health checks, backups and rollback, upgrades, and SSH migration. |
+| [**Nerkhesh**](https://nerkhesh.ir) | Next.js, React, TypeScript, Python, FastAPI, PostgreSQL, Redis | Persian-first market-data platform for Iranian and global markets, with source timestamps, explicit data-freshness states, historical data, and responsive RTL interfaces. |
 | [**ServerHub**](https://github.com/HyperSentry-Labs/hs-serverhub) | Lua, React, TypeScript, FiveM | Standalone FiveM information and onboarding UI with searchable content, optional live status, and English/Persian RTL support. |
 | [**TrustHost Telegram Bot**](https://github.com/power0matin/trusthost-telegram-bot) | Python, aiogram, SQLAlchemy | Bilingual Telegram client for VPS services, orders, invoices, wallet, renewals, and support; layered API/services architecture with security-focused automated tests. |
 | [**Iran Provinces**](https://github.com/power0matin/iran-provinces) · [Live demo](https://power0matin.github.io/iran-provinces/) | JavaScript, Leaflet, GeoJSON | Bilingual interactive map and province directory with search, responsive UI, theme switching, and province-specific pages. |
@@ -30,13 +30,14 @@ I build backend software, Linux automation tools, bots, and web interfaces. I fo
 ## Technologies
 
 - **Languages:** Python, JavaScript / TypeScript, Lua, Bash
-- **Web and APIs:** React, REST APIs, Telegram integrations, Leaflet
-- **Platforms:** Linux, Docker, systemd
+- **Frontend:** React, Next.js, Tailwind CSS, Leaflet
+- **Backend and APIs:** FastAPI, REST APIs, Telegram integrations
+- **Data and platforms:** PostgreSQL, Redis, Linux, Docker
 - **Engineering tools:** Git, GitHub Actions, automated testing
 
 ## Opportunities
 
-I’m interested in **junior and internship opportunities** in web/software development, backend Python, Linux tooling, and automation. I’m based in Iran and open to remote roles and collaboration.
+I’m interested in **junior and internship opportunities** in web/software development, backend Python, and automation. I’m based in Iran and open to remote roles and collaboration.
 
 ## Contact
 
