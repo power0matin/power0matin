@@ -8,36 +8,40 @@
 
 <h1 align="center">Hi, I'm Matin Shahabadi</h1>
 
-<p><strong>Web &amp; Software Developer</strong> · Python · JavaScript / TypeScript · Lua · Bash</p>
+<p><strong>Web &amp; Software Developer</strong> · Python · JavaScript / TypeScript · Linux / Bash</p>
 
-<p>Backend systems · Web applications · Automation</p>
+<p>Backend development · Web applications · Automation · API integrations</p>
 
 </div>
 
 ## About
 
-I build backend software, web applications, Telegram bots, and automation tools. I focus on practical features, clear failure handling, and software that is maintainable and testable.
+I'm a web and software developer working mainly with **Python**, **JavaScript**, and **Linux/Bash**. I build backend integrations, Telegram bots, command-line tools, automation, and web applications. Lua is part of my project-based FiveM work.
+
+My focus is on reliable backend services, practical automation, clear error handling, maintainable code, and usable interfaces.
+
+The projects below are selected personal work, not employment or client-work claims. Private-source projects link to their public product pages instead of implying that their source code is open.
 
 ## Selected Projects
 
 | Project | Technologies | What it demonstrates |
 |---|---|---|
-| [**Nerkhesh**](https://nerkhesh.ir) | Next.js, React, TypeScript, Python, FastAPI, PostgreSQL, Redis | Persian-first market-data platform for Iranian and global markets, with source timestamps, explicit data-freshness states, historical data, and responsive RTL interfaces. |
-| [**ServerHub**](https://github.com/HyperSentry-Labs/hs-serverhub) | Lua, React, TypeScript, FiveM | Standalone FiveM information and onboarding UI with searchable content, optional live status, and English/Persian RTL support. |
-| [**TrustHost Telegram Bot**](https://github.com/power0matin/trusthost-telegram-bot) | Python, aiogram, SQLAlchemy | Bilingual Telegram client for VPS services, orders, invoices, wallet, renewals, and support; layered API/services architecture with security-focused automated tests. |
-| [**Iran Provinces**](https://github.com/power0matin/iran-provinces) · [Live demo](https://power0matin.github.io/iran-provinces/) | JavaScript, Leaflet, GeoJSON | Bilingual interactive map and province directory with search, responsive UI, theme switching, and province-specific pages. |
+| [**Nerkhesh**](https://matinshahabadi.ir/projects/nerkhesh/) · [Live application](https://nerkhesh.ir) | Next.js, React, TypeScript, Tailwind CSS, Python, FastAPI, Redis, PostgreSQL | Persian-first, RTL market-data dashboard for Iranian gold, coins and currencies, alongside selected global-market references. Includes historical views, calculators, watchlists, service diagnostics, and source-aware timestamps with explicit quote-freshness states. The source repository is private. |
+| [**ServerHub**](https://github.com/HyperSentry-Labs/hs-serverhub) | Lua 5.4, React, TypeScript, FiveM | FiveM resource with a Lua backend and React/TypeScript interface, providing information and onboarding features. |
+| [**TrustHost Telegram Bot**](https://github.com/power0matin/trusthost-telegram-bot) | Python, aiogram, SQLAlchemy | Bilingual VPS-management bot integrated with the TrustHost Customer API, covering services, orders, invoices, wallet, renewals, and support. |
+| [**Iran Provinces**](https://github.com/power0matin/iran-provinces) · [Live demo](https://power0matin.github.io/iran-provinces/) | JavaScript, Leaflet | Bilingual interactive map of Iran with province information and a responsive interface. |
 
 ## Technologies
 
-- **Languages:** Python, JavaScript / TypeScript, Lua, Bash
-- **Frontend:** React, Next.js, Tailwind CSS, Leaflet
-- **Backend and APIs:** FastAPI, REST APIs, Telegram integrations
-- **Data and platforms:** PostgreSQL, Redis, Linux, Docker
-- **Engineering tools:** Git, GitHub Actions, automated testing
+- **Languages:** Python, JavaScript / TypeScript, Bash / Shell, PowerShell; Lua for project-based FiveM work
+- **Web:** Next.js, React, Tailwind CSS, HTML, CSS, Leaflet
+- **Backend and integrations:** FastAPI, REST APIs, Telegram Bot API, Discord API, Spotify API
+- **Data and systems:** PostgreSQL, Redis, SQLite, Linux, Docker, systemd
+- **Tools and quality:** Git, GitHub Actions, pytest, Vitest, ShellCheck
 
 ## Opportunities
 
-I’m interested in **junior and internship opportunities** in web/software development, backend Python, and automation. I’m based in Iran and open to remote roles and collaboration.
+I'm open to **software and backend development roles, internships, and remote positions**. I'm based in Alborz, Iran (UTC+3:30).
 
 ## Contact
 
